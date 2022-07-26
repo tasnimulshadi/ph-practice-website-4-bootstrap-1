@@ -1,0 +1,16 @@
+.background-gradient {
+    background-image: linear-gradient(to right, blue, rgb(198, 10, 198));
+}
+
+.primary-color {
+    color: blue;
+}
+
+.section-5 {
+    background: url(../img/background.png), rgba(0, 0, 0, 0.374);
+    background-repeat: no-repeat;
+    background-blend-mode: overlay;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
